@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "426864628680",
+    "project_id": "roster-48c4a",
+    "storage_bucket": "roster-48c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426864628680:android:e15c8eaf18c3751042a6fd",
+        "android_client_info": {
+          "package_name": "io.app.eroster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426864628680-f8vjq8esbce0ktb56ijm8bs9istsi708.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEa94NbDf1g4CyFxz3e3EdYpHPe9av6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426864628680-f8vjq8esbce0ktb56ijm8bs9istsi708.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426864628680-fc5gs1vckpvin0e6cn04itasgn9o7duh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.app.blankroster"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426864628680:android:1e6420e783ff7cae42a6fd",
+        "android_client_info": {
+          "package_name": "io.app.erostertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426864628680-f8vjq8esbce0ktb56ijm8bs9istsi708.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEa94NbDf1g4CyFxz3e3EdYpHPe9av6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426864628680-f8vjq8esbce0ktb56ijm8bs9istsi708.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426864628680-fc5gs1vckpvin0e6cn04itasgn9o7duh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.app.blankroster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
